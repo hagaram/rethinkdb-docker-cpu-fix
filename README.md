@@ -6,7 +6,7 @@ https://github.com/helm/charts/tree/master/stable/rethinkdb
 
 https://hub.helm.sh/charts/stable/rethinkdb
 
-**This image runs on up to 256 CPUs instead of official image, which crashes on 127+ CPU.**
+**This image is capable of running rethinkdb on up to 256 CPUs, official rethinkdb binary crashes on 127+ CPU.**
 
 See my issue on gitlab for more info:
 
