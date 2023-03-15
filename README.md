@@ -1,5 +1,8 @@
 # rethinkdb-docker-cpu-fix
 
+
+**This repo is archived as the official release already fixed the issue.**
+
 This repository contains Dockerfile to build docker image compatible with projects listed below. It is based on original work of people mentioned on the sites below - with my modifications and aditions. It can be easily modified for standalone rethinkdb setup without K8S.
 
 https://github.com/helm/charts/tree/master/stable/rethinkdb
